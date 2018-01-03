@@ -1,0 +1,16 @@
+{
+  "name": "gel",
+  "version": "1.0.0",
+  "description": "handlebars project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daniel wang",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.0.11",
+    "handlebars-layouts": "^3.1.4",
+    "less": "^2.7.3"
+  }
+}
